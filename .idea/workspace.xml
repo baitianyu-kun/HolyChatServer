@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HolyChatServer:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41e1e05e-8a82-458a-a949-57694e867ac8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1nExm8knzDcxsksESFTDIqhnUBu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/baitianyu/HolyChatServer" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\android_chat_project\HolyChatServer\src\main\java\com\baitianyu\HolyChatServer\Utils" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.baitianyu.HolyChatServer.Serverlet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.41">
+    <configuration name="ChatActDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baitianyu.HolyChatServer.DaoImpl.MainActDaoImpl.ChatActDaoImpl" />
+      <module name="HolyChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baitianyu.HolyChatServer.DaoImpl.MainActDaoImpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendsActDaoImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baitianyu.HolyChatServer.DaoImpl.MainActDaoImpl.FriendsActDaoImpl" />
+      <module name="HolyChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baitianyu.HolyChatServer.DaoImpl.MainActDaoImpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.baitianyu.HolyChatServer.DaoImpl.LoginActDaoImpl.LoginActDaoImpl" />
+      <module name="HolyChatServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.baitianyu.HolyChatServer.DaoImpl.MainActDaoImpl.UserManageActDaoImpl" />
+      <module name="HolyChatServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.baitianyu.HolyChatServer.test.testArray" />
+      <module name="HolyChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baitianyu.HolyChatServer.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.41" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.41" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER" value="false" />
+      <deployment>
+        <artifact name="HolyChatServer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/HolyChatServer_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="7f3b3594-7f36-4fcb-94c9-d8f4df8f533e" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="7647" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="HolyChatServer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.ChatActDaoImpl" />
+      <item itemvalue="Application.FriendsActDaoImpl" />
+      <item itemvalue="Application.testArray" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.41" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.testArray" />
+        <item itemvalue="Application.FriendsActDaoImpl" />
+        <item itemvalue="Application.ChatActDaoImpl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41e1e05e-8a82-458a-a949-57694e867ac8" name="Default Changelist" comment="" />
+      <created>1610969209598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610969209598</updated>
+      <workItem from="1610969211655" duration="649000" />
+      <workItem from="1610969996611" duration="8266000" />
+      <workItem from="1611020785984" duration="26090000" />
+      <workItem from="1611055356487" duration="1748000" />
+      <workItem from="1611065006672" duration="2218000" />
+      <workItem from="1611107139399" duration="5459000" />
+      <workItem from="1611136597489" duration="23000" />
+      <workItem from="1611144271512" duration="35000" />
+      <workItem from="1611369701360" duration="2599000" />
+      <workItem from="1611382489045" duration="645000" />
+      <workItem from="1611540093422" duration="1770000" />
+      <workItem from="1611543164324" duration="43000" />
+      <workItem from="1611543881106" duration="244000" />
+      <workItem from="1611544400427" duration="5000" />
+      <workItem from="1611546243764" duration="3824000" />
+      <workItem from="1611560114331" duration="1766000" />
+      <workItem from="1611561910128" duration="6309000" />
+      <workItem from="1611573074960" duration="1507000" />
+      <workItem from="1611627845111" duration="105000" />
+      <workItem from="1611628006037" duration="218000" />
+      <workItem from="1611628251616" duration="7849000" />
+      <workItem from="1611636485727" duration="79000" />
+      <workItem from="1611636600212" duration="11573000" />
+      <workItem from="1611649708803" duration="3592000" />
+      <workItem from="1611662070727" duration="6524000" />
+      <workItem from="1611711509273" duration="15103000" />
+      <workItem from="1611798947867" duration="1676000" />
+      <workItem from="1611804506075" duration="662000" />
+      <workItem from="1611814123467" duration="1268000" />
+      <workItem from="1611896626780" duration="1430000" />
+      <workItem from="1611921697661" duration="1558000" />
+      <workItem from="1611929135472" duration="153000" />
+      <workItem from="1611929379690" duration="2000" />
+      <workItem from="1611929425759" duration="673000" />
+      <workItem from="1611998570941" duration="1495000" />
+      <workItem from="1612411550766" duration="119000" />
+      <workItem from="1612411717799" duration="1000" />
+      <workItem from="1612411769132" duration="3000" />
+      <workItem from="1612417313654" duration="867000" />
+      <workItem from="1612418949977" duration="18000" />
+      <workItem from="1612431939943" duration="19000" />
+      <workItem from="1612441565278" duration="18000" />
+      <workItem from="1612443923471" duration="676000" />
+      <workItem from="1612520139144" duration="3110000" />
+      <workItem from="1612667609846" duration="417000" />
+      <workItem from="1612697666871" duration="3565000" />
+      <workItem from="1612707329621" duration="31000" />
+      <workItem from="1612709060561" duration="26000" />
+      <workItem from="1612709107211" duration="17000" />
+      <workItem from="1612709222500" duration="4000" />
+      <workItem from="1612710352834" duration="78000" />
+      <workItem from="1612747898073" duration="235000" />
+      <workItem from="1612748378062" duration="205000" />
+      <workItem from="1612852879021" duration="8000" />
+      <workItem from="1612879030834" duration="2843000" />
+      <workItem from="1612882289976" duration="858000" />
+      <workItem from="1613095683962" duration="306000" />
+      <workItem from="1613096146825" duration="479000" />
+      <workItem from="1613448448566" duration="10000" />
+      <workItem from="1613448522091" duration="9000" />
+      <workItem from="1613448716391" duration="4000" />
+      <workItem from="1613530338074" duration="111000" />
+      <workItem from="1613566480299" duration="104000" />
+      <workItem from="1613988397287" duration="13000" />
+      <workItem from="1614088854102" duration="6000" />
+      <workItem from="1614652377174" duration="78000" />
+      <workItem from="1614652476854" duration="623000" />
+      <workItem from="1614655927774" duration="347000" />
+      <workItem from="1614833494574" duration="879000" />
+      <workItem from="1614835928967" duration="133000" />
+      <workItem from="1614836312139" duration="33000" />
+      <workItem from="1614906415155" duration="47000" />
+      <workItem from="1614945075958" duration="583000" />
+      <workItem from="1615095908707" duration="21000" />
+      <workItem from="1615097360643" duration="156000" />
+      <workItem from="1615097798380" duration="4000" />
+      <workItem from="1615808395570" duration="736000" />
+      <workItem from="1615867806783" duration="390000" />
+      <workItem from="1616037831514" duration="49000" />
+      <workItem from="1616039216278" duration="1168000" />
+      <workItem from="1616247717659" duration="9000" />
+      <workItem from="1616303575751" duration="78000" />
+      <workItem from="1616303993595" duration="149000" />
+      <workItem from="1616311581653" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

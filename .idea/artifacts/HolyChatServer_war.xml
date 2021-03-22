@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="HolyChatServer:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HolyChatServer</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HolyChatServer-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HolyChatServer:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/java/com/baitianyu/HolyChatServer" />
+    </root>
+  </artifact>
+</component>
